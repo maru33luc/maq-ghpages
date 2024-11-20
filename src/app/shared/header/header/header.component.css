@@ -6,4 +6,19 @@ header{
   background-color: #9b9595;
   color: #fff;
   border-bottom: 1px solid #fff;
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-content: baseline;
+}
+
+ul{
+  list-style-type: none;
+  display: flex;
+  gap: 10px;
+}
+
+a{
+  text-decoration: none;
+  color: #fff;
 }
